@@ -10,3 +10,4 @@ mvn test
 
 ## 测试示例
 * [基本用法ListTest](src/test/java/com/example/ListTest.java)
+* [MVC示例UserServiceTest](src/test/java/com/example/mvc/UserServiceTest.java)
